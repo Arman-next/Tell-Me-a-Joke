@@ -53,7 +53,7 @@ A simple application where users click button and the robot will tell a random j
 ## 📁 Folder Structure
 
 ```bash
-Weather-App-JS/
+Tell-Me-a-Joke/
 ├── index.html
 ├── style.css
 └── script.js
